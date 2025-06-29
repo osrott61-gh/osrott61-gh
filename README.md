@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 - Working on my personal homelab, featuring:  
 
   - **Dell R730**: 1x Xeon E5-2690V4 (have some better ones floating around, but no thermal paste), 96GB DDR4 2133MT/s LRDIMM (genuine Dell), 1TB NVMe, 256GB NVMe, 2x 512GB SATA SSD, 3x 8TB HDDs for archiving.  
-  - **Dell OptiPlex 5060 Micro**: Intel Pentium Gold G5500T, 16GB RAM, 256GB NVMe, 3x 1TB HDD (1x SATA, 2x USB3), runs my homelab services like reverse proxies and Ubuntu Cockpit.  
+  - **Dell OptiPlex 5060 Micro**: Intel Pentium Gold G5500T, 16GB RAM, 256GB NVMe, 3x 1TB HDD (1x SATA, 2x USB3), runs my homelab services like reverse proxies, status pages, backups and Ubuntu Cockpit.  
   - **Dell Precision 3620**: i7-7700K, 64GB DDR4, 512GB NVMe, GTX 1080. My main rig for development and hosting a Minecraft server.
   - **Generic office PC**: i7-4790, 16GB DDR3, 2x 256GB SSD (R1). Currently doing absolutely nothing
   - **Dell Wyse 3040**: Intel Atom x5-Z8350, 2GB RAM, 8GB eMMC. My VPN server.  
