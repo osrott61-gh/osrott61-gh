@@ -37,3 +37,7 @@ I'm always open to discussing new ideas, projects, or collaborations. Reach out 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oskarschat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osrott61@perfc.org)
+
+
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/2482cb9e-e1d4-496a-b109-f267fec8313b" />
