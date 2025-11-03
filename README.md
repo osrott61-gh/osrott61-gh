@@ -1,5 +1,5 @@
 Hi, I'm Oskar (osrott61)  
-I'm a passionate Android builder, currently working on LineageOS 22.2 for the Exynos 990. Excited about open-source development and homelab adventures!
+I'm a passionate Android builder, currently working on LineageOS 23.0 for various devices. Excited about open-source development and homelab adventures!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osrott61-gh&color=blue&style=for-the-badge)  
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202025-blue?style=for-the-badge)
@@ -16,7 +16,8 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 What I'm Currently Building & Exploring
 
-- Contributing to LineageOS 22.2 for the Exynos 990.
+- Contributing to LineageOS 23.0 for some devices.
+- Making ExtremeROM-Kebab for OneUI8 (private)
 - Learning about homelab setups and infrastructure.  
 - Working on my personal homelab, featuring:  
 
@@ -26,7 +27,8 @@ Here are some of the technologies and tools I work with:
   - **Generic office PC**: i7-4790, 16GB DDR3, 2x 256GB SSD (R1). Currently doing absolutely nothing
   - **Dell Wyse 3040**: Intel Atom x5-Z8350, 2GB RAM, 8GB eMMC. My VPN server.  
   - **Dell Precision 7820**: i7-7820HQ, 40GB DDR4, Quadro M2200. Manages all of the above.  
-
+  - **Saving up to a home-hosted nextcloud, wich you may help me fund via [paypal](https://www.paypal.com/paypalme/ORottmueller)**
+    
 (Yes, I'm a Dell enthusiast!)
 
 Besides all that technical stuff, I'm also the stage technician at my school, which is fun—as long as I don't have to stay until 8 PM (or even longer, record was 3AM this october, which happens quite often. This includes lighting bigger performances for 8th or 11th graders or more random events like celebrations at short notice.
@@ -40,4 +42,5 @@ I'm always open to discussing new ideas, projects, or collaborations. Reach out 
 
 
 
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/2482cb9e-e1d4-496a-b109-f267fec8313b" />
+![601448566dfbe10018e00c5d](https://github.com/user-attachments/assets/29356b05-1091-4282-bf91-69d61f2045f9)
+
