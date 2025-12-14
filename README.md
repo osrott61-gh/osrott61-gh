@@ -1,46 +1,82 @@
-Hi, I'm Oskar (osrott61)  
-I'm a passionate Android builder, currently working on LineageOS 23.0 for various devices. Excited about open-source development and homelab adventures!
+hi, i'm oskar (osrott61)
 
-![Profile Views](https://komarev.com/ghpvc/?username=osrott61-gh&color=blue&style=for-the-badge)  
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202025-blue?style=for-the-badge)
+android builder, open-source enthusiast, and homelab enjoyer based in mannheim. i'm into cars, bikes, football, homelabbing, and programming.
 
-## My Toolkit  
-Here are some of the technologies and tools I work with:
+![profile views](https://komarev.com/ghpvc/?username=osrott61-gh\&color=blue\&style=for-the-badge)
+![last updated](https://img.shields.io/badge/last%20updated-june%202025-blue?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+---
 
+## about me
 
-## 🚀 What I'm Currently Building & Exploring
+* currently working on **lineageos 23.0** for various devices
+* building **extremerom-kebab** for oneui 8 (private)
+* passionate about open-source android development
+* growing and maintaining my own homelab since january 2025
 
-- Contributing to LineageOS 23.0 for some devices.
-- Making ExtremeROM-Kebab for OneUI8 (private)
-- Learning about homelab setups and infrastructure.  
-- Working on my personal homelab, featuring:  
+outside of tech, i'm heavily interested in **cars and bikes**, especially older vehicles. some of my favorite cars include the mercedes w123 and w126, audi a8 d2 and audi 80, and bmws like the e38 and e30. i also own a lowered and modified **opel astra g**, and enjoy learning about mechanics and tuning.
 
-  - **Dell R730**: 1x Xeon E5-2690V4 (have some better ones floating around, but no thermal paste), 96GB DDR4 2133MT/s LRDIMM (genuine Dell), 1TB NVMe, 256GB NVMe, 2x 512GB SATA SSD, 3x 8TB HDDs for archiving.  
-  - **Dell OptiPlex 5060 Micro**: Intel Pentium Gold G5500T, 16GB RAM, 256GB NVMe, 3x 1TB HDD (1x SATA, 2x USB3), runs my homelab services like reverse proxies, status pages, backups and Ubuntu Cockpit.  
-  - **Dell Precision 3620**: i7-7700K, 64GB DDR4, 512GB NVMe, GTX 1080. My main rig for development and hosting a Minecraft server.
-  - **Generic office PC**: i7-4790, 16GB DDR3, 2x 256GB SSD (R1). Currently doing absolutely nothing
-  - **Dell Wyse 3040**: Intel Atom x5-Z8350, 2GB RAM, 8GB eMMC. My VPN server.  
-  - **Dell Precision 7820**: i7-7820HQ, 40GB DDR4, Quadro M2200. Manages all of the above.  
-  - **Saving up to a home-hosted nextcloud, wich you may help me fund via [paypal](https://www.paypal.com/paypalme/ORottmueller)**
-    
-(Yes, I'm a Dell enthusiast!)
+i'm also into bikes because my dad used to own a motorcycle repair shop and was active in racing until 2014. growing up around that environment got me into motorsports early on.
 
-Besides all that technical stuff, I'm also the stage technician at my school, which is fun—as long as I don't have to stay until 8 PM (or even longer, record was 3AM this october, which happens quite often. This includes lighting bigger performances for 8th or 11th graders or more random events like celebrations at short notice.
+besides all that, i'm the **stage technician at my school**, handling lighting and tech for performances and events (sometimes until way too late — record was 3am).
 
-## 📫 Connect With Me
+---
 
-I'm always open to discussing new ideas, projects, or collaborations. Reach out via:
+## my toolkit
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oskarschat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osrott61@perfc.org)
+![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge\&logo=python\&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232f3e?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![cloudflare](https://img.shields.io/badge/cloudflare-f38020?style=flat\&logo=cloudflare\&logoColor=white)
 
+---
 
+## what i'm currently building & exploring
 
-![601448566dfbe10018e00c5d](https://github.com/user-attachments/assets/29356b05-1091-4282-bf91-69d61f2045f9)
+* contributing to lineageos 23.0 for selected devices
+* android rom development and device bring-up
+* learning more about infrastructure, networking, and self-hosting
+* expanding and improving my personal homelab
 
+### homelab overview
+
+* **dell r730**
+  xeon e5-2690 v4, 96gb ddr4 2133mt/s lrdimm, 1tb nvme, 256gb nvme, 2x 512gb sata ssd, 3x 8tb hdds (archive)
+
+* **dell optiplex 5060 micro**
+  pentium gold g5500t, 16gb ram, 256gb nvme, 3x 1tb hdds (1x sata, 2x usb3)
+  runs reverse proxies, status pages, backups, and ubuntu cockpit
+
+* **dell precision 3620**
+  i7-7700k, 64gb ddr4, 512gb nvme, gtx 1080
+  main development machine and minecraft server host
+
+* **generic office pc**
+  i7-4790, 16gb ddr3, 2x 256gb ssd (raid 1)
+  currently doing absolutely nothing
+
+* **dell wyse 3040**
+  atom x5-z8350, 2gb ram, 8gb emmc
+  vpn server
+
+* **dell precision 7820**
+  i7-7820hq, 40gb ddr4, quadro m2200
+  management and monitoring
+
+* saving up for a **home-hosted nextcloud**, which you can help fund via [paypal](https://www.paypal.com/paypalme/ORottmueller)
+
+*(yes, i'm a dell enthusiast)*
+
+---
+
+## connect with me
+
+always open to talking about android, homelabs, cars, or random projects.
+
+[![telegram](https://img.shields.io/badge/telegram-2ca5e0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/oskarschat)
+[![email](https://img.shields.io/badge/email-d14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:osrott61@perfc.org)
+
+---
+
+![image](https://github.com/user-attachments/assets/29356b05-1091-4282-bf91-69d61f2045f9)
