@@ -3,7 +3,7 @@ hi, i'm oskar (osrott61)
 android builder, open-source enthusiast, and homelab enjoyer based in mannheim. i'm into cars, bikes, football, homelabbing, and programming.
 
 ![profile views](https://komarev.com/ghpvc/?username=osrott61-gh\&color=blue\&style=for-the-badge)
-![last updated](https://img.shields.io/badge/last%20updated-june%202025-blue?style=for-the-badge)
+![last updated](https://img.shields.io/badge/last%20updated-December%202025-blue?style=for-the-badge)
 
 ---
 
