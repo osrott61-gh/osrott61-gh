@@ -64,7 +64,7 @@ besides all that, i'm the **stage technician at my school**, handling lighting a
   i7-7820hq, 40gb ddr4, quadro m2200
   management and monitoring
 
-* saving up for a **home-hosted nextcloud**, which you can help fund via [paypal](https://www.paypal.com/paypalme/ORottmueller)
+* saving up for a **home-hosted nextcloud**, which you can help fund via [paypal](https://www.paypal.com/paypalme/ORottmueller) (we have reached 40/175€)
 
 *(yes, i'm a dell enthusiast)*
 
