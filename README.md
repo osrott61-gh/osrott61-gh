@@ -62,7 +62,7 @@ besides all that, i'm the **stage technician at my school**, handling lighting a
 
 * **dell precision 7820**
   i7-7820hq, 40gb ddr4, quadro m2200
-  management and monitoring
+  management and monitoring (display broke 9.1.26 😭, need to find some other laptop to use)
 
 * saving up for a **home-hosted nextcloud**, which you can help fund via [paypal](https://www.paypal.com/paypalme/ORottmueller) (we have reached 40/175€)
 
